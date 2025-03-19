@@ -43,7 +43,7 @@ The models were tested on both training and validation datasets, and their error
 
 # **How to use**
 i) **Clone the repository:**<br/>
-git clone https://github.com/Bikram2473/calories-burnt-prediction
+git clone https://github.com/Bikram2473/calories-burnt-prediction.git
 
 ii) **Install Dependencies:**<br/>
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
